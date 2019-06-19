@@ -1,0 +1,7 @@
+C:\Users\andre\Documents\Project\CSharp\geradorSchemaMongo\geradorSchemaMongo\obj\Debug\geradorSchemaMongo.csprojAssemblyReference.cache
+C:\Users\andre\Documents\Project\CSharp\geradorSchemaMongo\geradorSchemaMongo\obj\Debug\geradorSchemaMongo.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\Project\CSharp\geradorSchemaMongo\geradorSchemaMongo\bin\Debug\geradorSchemaMongo.exe.config
+C:\Users\andre\Documents\Project\CSharp\geradorSchemaMongo\geradorSchemaMongo\bin\Debug\geradorSchemaMongo.exe
+C:\Users\andre\Documents\Project\CSharp\geradorSchemaMongo\geradorSchemaMongo\bin\Debug\geradorSchemaMongo.pdb
+C:\Users\andre\Documents\Project\CSharp\geradorSchemaMongo\geradorSchemaMongo\obj\Debug\geradorSchemaMongo.exe
+C:\Users\andre\Documents\Project\CSharp\geradorSchemaMongo\geradorSchemaMongo\obj\Debug\geradorSchemaMongo.pdb
